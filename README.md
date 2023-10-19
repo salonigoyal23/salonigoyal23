@@ -6,7 +6,7 @@
 <a title="salonigoyal2303@gmail.com" href="mailto:salonigoyal2303@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="salonigoyal2303@gmail.com" />
 </a>
-<a href="https://www.linkedin.com/in/arjun-singh-366476194/">
+<a href="https://www.linkedin.com/in/saloni-goyal-067091141/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/saloni-goyal-067091141/" />
 </a>
 
@@ -17,7 +17,7 @@
 - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
 - ⚡ Fact: I love to make videos on youtube.
-- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs,Chakra Ui, Npm.
+- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Npm.
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -57,7 +57,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-  <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 <br>
