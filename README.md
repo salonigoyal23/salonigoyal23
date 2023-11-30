@@ -16,8 +16,8 @@
 - 🌱 I’m currently Learning MERN Stack at Masai School.
 - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about making creative websites.
-- ⚡ Fact: I love to make videos on youtube.
-- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Npm.
+- ⚡ Fact: I love to design Posters, webpages.
+- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, and Npm.
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -28,11 +28,11 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/ArjunSinghBhakuni">
-        <img src="https://komarev.com/ghpvc/?username=ArjunSinghBhakuni&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+    <a href="https://github.com/salonigoyal23">
+        <img src="https://komarev.com/ghpvc/?username=salonigoyal23&label=Profile%20views&color=0e75b6&style=flat" alt="salonigoyal23" />
     </a>
-<!--     <a href="https://github.com/ArjunSinghBhakuni?tab=followers">
-        <img src="https://img.shields.io/github/followers/ArjunSinghBhakunit?label=Followers&style=social" alt="followers-count">
+<!--     <a href="https://github.com/salonigoyal23?tab=followers">
+        <img src="https://img.shields.io/github/followers/salonigoyal23t?label=Followers&style=social" alt="followers-count">
     </a> -->
 </p>
  
@@ -73,16 +73,16 @@
 
 
 <p display="flex" align="center">
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSinghBhakuni&hide=smalltalk&theme=algolia&layout=compact" width="400" />
+<img alt="salonigoyal23 Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonigoyal23&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
 
 
-  <a href="https://github.com/ArjunSinghBhakuni?tab=repositories">
-    <img width="400" height="auto"  alt="Arjun's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=ArjunSinghBhakuni&show_icons=true&theme=algolia&count_private=true" />
+  <a href="https://github.com/salonigoyal23?tab=repositories">
+    <img width="400" height="auto"  alt="Saloni's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=salonigoyal23&show_icons=true&theme=algolia&count_private=true" />
   </a>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunSinghBhakuni&hide=smalltalk&theme=algolia&layout=compact" alt="ArjunSinghBhakuni" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salonigoyal23&hide=smalltalk&theme=algolia&layout=compact" alt="salonigoyal23" />
 </p>
 
 ---
