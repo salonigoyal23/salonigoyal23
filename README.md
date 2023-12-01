@@ -11,15 +11,12 @@
 </a>
 
 ---
-
-## Self-motivated and aspiring Full Stack Web Developer skilled in MERN stack and able to learn and collaborate in rapidly changing environments and compositions. Passionate about building first-class web applications. Adapt to self-starting and collaborative environments while focusing on achieving high-quality results under strict deadlines. Apart from this, I have developed a keen interest in designing posters and web pages. 
+<!----------------------------------- Profile Description ------------------------------------>
+# Self-motivated and aspiring Full Stack Web Developer skilled in MERN stack and able to learn and collaborate in rapidly changing environments and compositions. Passionate about building first-class web applications. Adapt to self-starting and collaborative environments while focusing on achieving high-quality results under strict deadlines. Apart from this, I have developed a keen interest in designing posters and web pages. 
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b> I love networking with people</b> :blush:</em>
 
 ---
-
-
- 
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
@@ -31,8 +28,6 @@
     </a> -->
 </p>
  
-
-
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2><i>Tech Stack</i></h2>
@@ -55,8 +50,6 @@
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 <br>
-
-
 ---
 
 ### Desktop Environment:
@@ -65,12 +58,8 @@
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
 
 ---
-
-
 <p display="flex" align="center">
 <img alt="salonigoyal23 Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonigoyal23&hide=smalltalk&theme=algolia&layout=compact" width="400" />
-
-
 
   <a href="https://github.com/salonigoyal23?tab=repositories">
     <img width="400" height="auto"  alt="Saloni's github stats" 
@@ -79,7 +68,4 @@
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salonigoyal23&hide=smalltalk&theme=algolia&layout=compact" alt="salonigoyal23" />
 </p>
-
 ---
-
- 
