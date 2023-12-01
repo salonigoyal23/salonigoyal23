@@ -12,12 +12,7 @@
 
 ---
 
-## I'm a Software Engineer and Life Long Learner!
-- 🌱 I’m currently Learning MERN Stack at Masai School.
-- 🌏 Looking to solve real-world problems.
-- 💻 I'm passionate about making creative websites.
-- ⚡ Fact: I love to design Posters and web pages.
-- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, and Npm.
+## Self-motivated and aspiring Full Stack Web Developer skilled in MERN stack and able to learn and collaborate in rapidly changing environments and compositions. Passionate about building first-class web applications. Adapt to self-starting and collaborative environments while focusing on achieving high-quality results under strict deadlines. Apart from this, I have developed a keen interest in designing posters and web pages. 
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b> I love networking with people</b> :blush:</em>
 
