@@ -30,7 +30,7 @@
  
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
-<h2><i>Tech Stack</i></h2>
+<h2><i>Tech Stack: </i></h2>
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -50,13 +50,13 @@
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 <br>
----
 
-### Desktop Environment:
+<h2><i> Desktop Environment:</i></h2>
+<p>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
-
+</p>
 ---
 <p display="flex" align="center">
 <img alt="salonigoyal23 Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonigoyal23&hide=smalltalk&theme=algolia&layout=compact" width="400" />
