@@ -12,7 +12,7 @@
 
 ---
 <!----------------------------------- Profile Description ------------------------------------>
-# Self-motivated and aspiring Full Stack Web Developer skilled in MERN stack and able to learn and collaborate in rapidly changing environments and compositions. Passionate about building first-class web applications. Adapt to self-starting and collaborative environments while focusing on achieving high-quality results under strict deadlines. Apart from this, I have developed a keen interest in designing posters and web pages. 
+#### Self-motivated and aspiring Full Stack Web Developer skilled in MERN stack and able to learn and collaborate in rapidly changing environments and compositions. Passionate about building first-class web applications. Adapt to self-starting and collaborative environments while focusing on achieving high-quality results under strict deadlines. Apart from this, I have developed a keen interest in designing posters and web pages. 
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b> I love networking with people</b> :blush:</em>
 
