@@ -42,3 +42,5 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salonigoyal23&theme=github_dark" />
 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=salonigoyal23&theme=github_dark"/>
+
+<img src= "https://github-readme-streak-stats.herokuapp.com?user=salonigoyal23&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
