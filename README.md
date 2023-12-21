@@ -12,7 +12,17 @@
 
 ---
 <!----------------------------------- Profile Description ------------------------------------>
-#### MERN stack developer, proficient in JavaScript, excels in translating project requirements into scalable web applications. Skilled in creating efficient server-side APIs, optimizing database models, and ensuring seamless integration. Constantly updating skills to align with the latest technologies. Strong problem-solving and communication skills, coupled with a proactive and self-motivated approach.
+👋 Hello World! I'm Ashutosh Verma, a passionate MERN Developer with a knack for crafting seamless web experiences. 🚀
+
+👨‍💻 As a Full Stack Web Developer, I honed my skills through a rigorous Full Stack Web Development Course at Masai, diving deep into the intricacies of the MERN Stack. From React and Redux for dynamic front-end experiences to Node.js, Express, and MongoDB for robust back-end solutions – my tech toolkit is equipped to tackle diverse challenges.
+
+🛠️ My arsenal includes React, Redux, JAVA, Node, Express, Mongoose, MongoDB, HTML, CSS, JavaScript, and Git. I thrive on creating efficient, elegant code and have a solid foundation in Data Structures and Algorithms, having conquered 650+ DSA problems.
+
+🌐 I'm not just a coder; I'm a problem solver. Whether it's architecting the frontend or optimizing the backend, I'm dedicated to building innovative solutions that stand the test of time.
+
+💡 Innovation excites me, and I love collaborating with teams to turn ideas into reality through technology. Let's connect and explore the limitless possibilities of the digital realm. Together, we can shape the future, one line of code at a time. 🌟
+
+📫 Reach out, and let's embark on this coding journey together!
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b> I love networking with people</b> :blush:</em>
 
@@ -50,14 +60,18 @@
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 <br>
-
-<h2><i> Desktop Environment:</i></h2>
-<p>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
-</p>
----
+## 🛠 Skills
+- React
+- Redux
+- JAVA
+- MongoDB
+- Node.js
+- Express.js
+- Mongoose
+- JavaScript
+- HTML
+- CSS
+  
 <p display="flex" align="center">
 <img alt="salonigoyal23 Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonigoyal23&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
