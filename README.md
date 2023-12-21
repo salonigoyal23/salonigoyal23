@@ -20,6 +20,7 @@
         <img src="https://komarev.com/ghpvc/?username=salonigoyal23&label=Profile%20views&color=0e75b6&style=flat" alt="salonigoyal23" />
     </a>
 </p>
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://salonigoyal23.github.io/)
